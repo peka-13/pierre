@@ -134,6 +134,12 @@ body {
   .sidenav a {font-size: 18px;}
 }
 
+
+.centrar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 hr {
   margin: 1rem 0;
   color: inherit;
