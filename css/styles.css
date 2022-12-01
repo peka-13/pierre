@@ -136,9 +136,8 @@ body {
 
 
 .centrar {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 hr {
   margin: 1rem 0;
