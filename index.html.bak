@@ -1,13 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<<<<<<< HEAD
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-=======
-
-<head>
-    <meta charset="utf-8">
->>>>>>> 69ad37162100cbd744234f49a530358611703aca
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Home - Brand</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -16,11 +10,8 @@
   </head>
   <body>
     <nav class="navbar navbar-dark navbar-expand-lg fixed-top bg-dark navbar-custom">
-<<<<<<< HEAD
-      <div class="container"><a class="navbar-brand" href="index.html"><img src="file:///C:/Users/Pierre%20Rojas/Documents/GitHub/peka-13.github.io/assets/img/png/logo-no-background.png"
-
-            alt="" style="width: 100px; height: 39px;"></a><button data-bs-toggle="collapse"
-
+      <div class="container"><a class="navbar-brand" href="index.html"><img src="file:///C:/Users/Pierre%20Rojas/Documents/GitHub/peka-13.github.io/assets/img/png/logo-no-background.png"
+            alt="" style="width: 100px; height: 39px;"></a><button data-bs-toggle="collapse"
           class="navbar-toggler" data-bs-target="#navbarResponsive"><span class="visually-hidden">Toggle
             navigation</span><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -30,84 +21,23 @@
             <li class="nav-item"><a class="nav-link" href="#">servicios</a></li>
             <li class="nav-item"><a class="nav-link" href="#">contacto</a></li>
           </ul>
-=======
-        <div class="container"><a class="navbar-brand" href="#"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navbarResponsive"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="#">inicio</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">quienes somos</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">servicios</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">contacto</a></li>
-                </ul>
-            </div>
->>>>>>> 69ad37162100cbd744234f49a530358611703aca
         </div>
       </div>
     </nav>
     <header class="text-center text-white masthead">
-<<<<<<< HEAD
       <div class="masthead-content">
-=======
-        <div class="masthead-content">
-            <div class="container">
-                <h1 class="masthead-heading mb-0">¿Quieres crear tu página?</h1>
-                <h2 class="masthead-subheading mb-0">¡Te ayudamos en WebDev!</h2>
-            </div>
-        </div><a class="btn btn-primary btn-xl rounded-pill mt-5" role="button" href="#">saber mas</a>
-    </header>
-    <section>
->>>>>>> 69ad37162100cbd744234f49a530358611703aca
         <div class="container">
           <h1 class="masthead-heading mb-0">¿Quieres crear tu página?</h1>
           <h2 class="masthead-subheading mb-0">¡Te ayudamos en WebDev!</h2>
         </div>
-<<<<<<< HEAD
       </div>
       <a class="btn btn-primary btn-xl rounded-pill mt-5" role="button" href="#">saber
         mas</a> </header>
-=======
-    </section>
-    <section>
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6 order-lg-1">
-                    <div class="p-5"><img class="rounded-circle img-fluid" src="assets/img/02.jpg" width="232" height="232"></div>
-                </div>
-                <div class="col-lg-6 order-lg-2">
-                    <div class="p-5">
-                        <h2 class="display-4">We salute you!</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section>
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6 order-lg-2">
-                    <div class="p-5"><img class="rounded-circle img-fluid" src="assets/img/03.jpg" width="221" height="221"></div>
-                </div>
-                <div class="col-lg-6 order-lg-1">
-                    <div class="p-5">
-                        <h2 class="display-4">Let there be rock!</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
->>>>>>> 69ad37162100cbd744234f49a530358611703aca
     <footer class="py-5 bg-black">
       <div class="container">
         <p class="text-center text-white m-0 small">Copyright&nbsp;© Brand 2022</p>
       </div>
     </footer>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-<<<<<<< HEAD
   </body>
-=======
-</body>
-
->>>>>>> 69ad37162100cbd744234f49a530358611703aca
 </html>
