@@ -155,6 +155,128 @@ body {
   color: #fff;
 }
 
+.center {
+  text-align: center;
+}
+
+.fa {
+  
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.fa-android {
+  background: #a4c639;
+  color: white;
+}
+
+.fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+
+.fa-vimeo {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+.fa-vine {
+  background: #00b489;
+  color: white;
+}
+
+.fa-foursquare {
+  background: #45bbff;
+  color: white;
+}
+
+.fa-stumbleupon {
+  background: #eb4924;
+  color: white;
+}
+
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+.fa-soundcloud {
+  background: #ff5500;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+
 @media (max-width: 991px) {
   html, body {
     overflow-x: hidden;
@@ -217,29 +339,26 @@ body {
   padding: 12px 25px;
   border-radius: 23px;
   letter-spacing: 0.25px;
-  border-bottom: 2px solid #fff!important;
   transition: all .3s;
 }
 
 .main-blue-button a:hover {
   background-color: #fff!important;
   color: #4771cb!important;
-  border-bottom: 2px solid #4771cb!important;
 }
 
 .main-green-button a {
   display: inline-block;
   background-color: #33ccc5;
-  font-size: 15px;
-  font-weight: 400;
+  font-size: 50px;
   color: #fff;
-  text-transform: capitalize;
-  padding: 12px 25px;
+  padding: 12px 12px;
   border-radius: 23px;
-  letter-spacing: 0.25px;
-  border-bottom: 2px solid #4771cb!important;
   transition: all .3s;
+  text-align: left;
+  margin-right: 20px;
 }
+
 
 .main-green-button a:hover {
   background-color: #4771cb!important;
